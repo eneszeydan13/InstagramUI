@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ZEYDAN/Desktop/AirTies/InstagramUI/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/ZEYDAN/Desktop/AirTies/InstagramUI/app/src/main/res/drawable-v24/reels.xml" value="0.227" />
+        <entry key="..\:/Users/ZEYDAN/Desktop/AirTies/InstagramUI/app/src/main/res/layout-v26/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ZEYDAN/Desktop/AirTies/InstagramUI/app/src/main/res/layout/activity_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/ZEYDAN/Desktop/AirTies/InstagramUI/app/src/main/res/layout/stories_design.xml" value="0.67" />
       </map>
     </option>
   </component>
